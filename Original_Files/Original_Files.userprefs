@@ -1,0 +1,13 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="..\..\..\Documents\GitHub\game2\Unity Files\Assets\Scripts\Game_Controller.cs">
+    <Files>
+      <File FileName="..\..\..\Documents\GitHub\game2\Unity Files\Assets\Scripts\Enemy.cs" Line="10" Column="45" />
+      <File FileName="..\..\..\Documents\GitHub\game2\Unity Files\Assets\Scripts\Game_Controller.cs" Line="27" Column="2" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
